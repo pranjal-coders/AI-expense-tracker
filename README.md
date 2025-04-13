@@ -9,7 +9,10 @@
   Amount:100 
  <br>
   Category:Food
- <br><br><br>
+ <br><br>
+  Currently NLP is not been implemented
+
+  <br>
 </p>
 
 ![image](https://github.com/user-attachments/assets/03f139b5-f63f-4433-8e0c-8cb8ea983e29)
