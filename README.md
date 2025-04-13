@@ -1,5 +1,8 @@
 # AI-expense-tracker
 
+
+<h2>Deployed here👇🏼<br>
+  https://ai-expense-tracker.streamlit.app/</h2>
 <h3>Okk So this is me learning streamlit and adding nlp to data storing currently locally</h3>
 <h3>For example: </h3>
 <br>
