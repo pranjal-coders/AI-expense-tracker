@@ -3,7 +3,7 @@
 
 <h2>Deployed here👇🏼<br>
   https://ai-expense-tracker.streamlit.app/</h2>
-<h3>Okk So this is me learning streamlit and adding nlp to data storing currently locally</h3>
+<h3>Okk So this is me learning streamlit and adding nlp to data storing currently locally in a csv file</h3>
 <h3>For example: </h3>
 <br>
 <p>I spent 100 on a burger will store the info of <br><br>
