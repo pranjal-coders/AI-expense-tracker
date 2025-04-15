@@ -6,7 +6,7 @@ import plotly.express as px
 
 FILE_PATH = "expenses.csv"
 USERNAME = "admin"
-PASSWORD = "admin123"  # You can later use env variables for safety
+PASSWORD = "admin123"
 
 # ---------------------------- Initialising the csv fiel ----------------------------
 def init_file():
